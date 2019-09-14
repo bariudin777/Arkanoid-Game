@@ -1,0 +1,9 @@
+# default values for sleepy blocks
+default height:120 width:120 stroke:color(black)
+
+# block definitions
+bdef symbol:s hit_points:2 fill-1:image(block_images/sleepyz.jpg) fill-2:image(block_images/sleepyzz.jpg)
+bdef symbol:l hit_points:2 fill:image(block_images/zebra.jpg) fill-2:image(block_images/leopard.jpg)
+
+# spacers definitions
+sdef symbol:- width:408

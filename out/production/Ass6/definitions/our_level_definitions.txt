@@ -1,0 +1,44 @@
+# Level 1
+# Sleep
+
+START_LEVEL
+level_name:Sleepy
+ball_velocities:45,550 -45,550 -30,550 30,550
+background:image(background_images/sleeping.jpg)
+paddle_speed:60
+paddle_width:300
+block_definitions:definitions/sleepy_block_definitions.txt
+blocks_start_x:30
+blocks_start_y:50
+row_height:70
+num_blocks:8
+START_BLOCKS
+ssss
+-
+-
+ssss
+-
+END_BLOCKS
+END_LEVEL
+
+# Level 2
+# Run
+
+START_LEVEL
+level_name: Run
+ball_velocities:45,30
+background:image(background_images/runp.jpg)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/run_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:60
+num_blocks:27
+START_BLOCKS
+-ccccccccc
+-ccccccccc
+-ccccccccc
+
+END_BLOCKS
+END_LEVEL

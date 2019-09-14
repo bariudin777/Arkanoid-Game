@@ -1,0 +1,8 @@
+# default values for run blocks
+default height:120 width:120 stroke:color(black)
+
+# block definitions
+bdef symbol:c hit_points:1 fill:image(block_images/runf.jpg)
+
+# spacers definitions
+sdef symbol:- width:15
