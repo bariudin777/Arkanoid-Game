@@ -30,3 +30,15 @@ will run a game with the levels 1, 3, 2, 1, 1, 3, 4, 3.
 Your game should behave similar to the following example: ass5example.jar. In order to run the example, download it to your computer, and then type (at the console) java -jar ass5example.jar.
 
 The size of the screen should be 800 x 600.
+
+![](lev1.png) 
+
+![](lev2.png)
+
+![](lev3.png)
+
+![](lev4.png)
+
+And the final version of the game will be:
+
+![](final.png)
